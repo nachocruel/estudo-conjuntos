@@ -1,4 +1,4 @@
-'user strict'
+'use strict'
 
 let A = [1, 2, 3]
 let B = [4, 5, 6, 7]
